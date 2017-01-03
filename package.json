@@ -1,0 +1,35 @@
+{
+    "author": "jack@youstra.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "findphone",
+    "pebble": {
+        "displayName": "FindPhone",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/icon.png",
+                    "name": "APP_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "16d01f80-dbf6-417b-80e4-83c4506a8339",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.1.0"
+}
